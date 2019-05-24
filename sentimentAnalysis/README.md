@@ -1,4 +1,5 @@
 ############################# READ ME #############################
+
 This project was built using python 3 using jupyter notebook on my MacBook. Must specify the location of the test and training files within code before running!
 
 ############################## CONTENTS ##############################
