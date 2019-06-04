@@ -18,4 +18,4 @@ This project was built using python 3 using jupyter notebook on my MacBook. Must
 and training files within code before running!
 
 ### Tutorial
-This project was inspired by Analytic [Vidhya's practice problem](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/). Project follows this [tutorial](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) as a guide to learning the basics of Twitter Analysis
+This project was inspired by Analytic [Vidhya's practice problem](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/). Project follows this [tutorial](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) as a guide to learning the basics of Twitter Analysis.
