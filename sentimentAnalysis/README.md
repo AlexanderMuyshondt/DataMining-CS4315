@@ -16,3 +16,6 @@ markets with an active online user base to determine customer satisfaction, cons
 
 This project was built using python 3 using jupyter notebook on my MacBook. Must specify the location of the test
 and training files within code before running!
+
+### Tutorial
+This project was inspired by Analytic [Vidhya's practice problem](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/). Project follows this [tutorial](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/) as a guide to learning the basics of Twitter Analysis
